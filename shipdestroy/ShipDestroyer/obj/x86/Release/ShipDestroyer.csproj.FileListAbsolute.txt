@@ -1,0 +1,7 @@
+C:\Users\yegoris\Documents\Visual Studio 2010\Projects\C#\ShipDestroyer\ShipDestroyer\bin\Release\ShipDestroyer.exe
+C:\Users\yegoris\Documents\Visual Studio 2010\Projects\C#\ShipDestroyer\ShipDestroyer\bin\Release\ShipDestroyer.pdb
+C:\Users\yegoris\Documents\Visual Studio 2010\Projects\C#\ShipDestroyer\ShipDestroyer\obj\x86\Release\ShipDestroyer.Form1.resources
+C:\Users\yegoris\Documents\Visual Studio 2010\Projects\C#\ShipDestroyer\ShipDestroyer\obj\x86\Release\ShipDestroyer.Properties.Resources.resources
+C:\Users\yegoris\Documents\Visual Studio 2010\Projects\C#\ShipDestroyer\ShipDestroyer\obj\x86\Release\ShipDestroyer.csproj.GenerateResource.Cache
+C:\Users\yegoris\Documents\Visual Studio 2010\Projects\C#\ShipDestroyer\ShipDestroyer\obj\x86\Release\ShipDestroyer.exe
+C:\Users\yegoris\Documents\Visual Studio 2010\Projects\C#\ShipDestroyer\ShipDestroyer\obj\x86\Release\ShipDestroyer.pdb

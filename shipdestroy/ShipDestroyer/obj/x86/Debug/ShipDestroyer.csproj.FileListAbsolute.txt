@@ -1,0 +1,16 @@
+C:\Users\yegoris\Documents\Visual Studio 2010\Projects\C#\ShipDestroyer\ShipDestroyer\bin\Debug\ShipDestroyer.exe
+C:\Users\yegoris\Documents\Visual Studio 2010\Projects\C#\ShipDestroyer\ShipDestroyer\bin\Debug\ShipDestroyer.pdb
+C:\Users\yegoris\Documents\Visual Studio 2010\Projects\C#\ShipDestroyer\ShipDestroyer\obj\x86\Debug\ShipDestroyer.Form1.resources
+C:\Users\yegoris\Documents\Visual Studio 2010\Projects\C#\ShipDestroyer\ShipDestroyer\obj\x86\Debug\ShipDestroyer.Properties.Resources.resources
+C:\Users\yegoris\Documents\Visual Studio 2010\Projects\C#\ShipDestroyer\ShipDestroyer\obj\x86\Debug\ShipDestroyer.csproj.GenerateResource.Cache
+C:\Users\yegoris\Documents\Visual Studio 2010\Projects\C#\ShipDestroyer\ShipDestroyer\obj\x86\Debug\ShipDestroyer.exe
+C:\Users\yegoris\Documents\Visual Studio 2010\Projects\C#\ShipDestroyer\ShipDestroyer\obj\x86\Debug\ShipDestroyer.pdb
+C:\Users\yegoris\Documents\Visual Studio 2010\Projects\C#\ShipDestroyer\ShipDestroyer\obj\x86\Debug\ShipDestroyer.csprojResolveAssemblyReference.cache
+C:\Users\SIDDHARTH\Desktop\C# trial\Ship Destroyer Game\C#\ShipDestroyer\obj\x86\Debug\ShipDestroyer.exe
+C:\Users\SIDDHARTH\Desktop\C# trial\Ship Destroyer Game\C#\ShipDestroyer\obj\x86\Debug\ShipDestroyer.pdb
+C:\Users\SIDDHARTH\Desktop\C# trial\Ship Destroyer Game\C#\ShipDestroyer\bin\Debug\ShipDestroyer.exe
+C:\Users\SIDDHARTH\Desktop\C# trial\Ship Destroyer Game\C#\ShipDestroyer\bin\Debug\ShipDestroyer.pdb
+C:\Users\SIDDHARTH\Desktop\C# trial\Ship Destroyer Game\C#\ShipDestroyer\obj\x86\Debug\ShipDestroyer.csprojResolveAssemblyReference.cache
+C:\Users\SIDDHARTH\Desktop\C# trial\Ship Destroyer Game\C#\ShipDestroyer\obj\x86\Debug\ShipDestroyer.Form1.resources
+C:\Users\SIDDHARTH\Desktop\C# trial\Ship Destroyer Game\C#\ShipDestroyer\obj\x86\Debug\ShipDestroyer.Properties.Resources.resources
+C:\Users\SIDDHARTH\Desktop\C# trial\Ship Destroyer Game\C#\ShipDestroyer\obj\x86\Debug\ShipDestroyer.csproj.GenerateResource.Cache
