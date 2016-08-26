@@ -1,0 +1,8 @@
+C:\Users\SIDDHARTH\documents\visual studio 2010\Projects\mathsquiz\mathsquiz\bin\Debug\mathsquiz.exe
+C:\Users\SIDDHARTH\documents\visual studio 2010\Projects\mathsquiz\mathsquiz\bin\Debug\mathsquiz.pdb
+C:\Users\SIDDHARTH\documents\visual studio 2010\Projects\mathsquiz\mathsquiz\obj\x86\Debug\mathsquiz.Properties.Resources.resources
+C:\Users\SIDDHARTH\documents\visual studio 2010\Projects\mathsquiz\mathsquiz\obj\x86\Debug\mathsquiz.csproj.GenerateResource.Cache
+C:\Users\SIDDHARTH\documents\visual studio 2010\Projects\mathsquiz\mathsquiz\obj\x86\Debug\mathsquiz.exe
+C:\Users\SIDDHARTH\documents\visual studio 2010\Projects\mathsquiz\mathsquiz\obj\x86\Debug\mathsquiz.pdb
+C:\Users\SIDDHARTH\documents\visual studio 2010\Projects\mathsquiz\mathsquiz\obj\x86\Debug\mathsquiz.csprojResolveAssemblyReference.cache
+C:\Users\SIDDHARTH\documents\visual studio 2010\Projects\mathsquiz\mathsquiz\obj\x86\Debug\Math_Quiz.Form1.resources
